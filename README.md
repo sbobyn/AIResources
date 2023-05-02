@@ -1,6 +1,6 @@
-# Useful ML Courses
+# Useful AI Resources
 
-The following is a list of ML,Deep Learning, and RL resources I have found useful for reference and self-study.
+The following is a list of AI resources I have found useful for reference and self-study.
 
 ### Courses
 
@@ -56,6 +56,8 @@ The following is a list of ML,Deep Learning, and RL resources I have found usefu
 - andrej karpathy https://karpathy.ai/
 - Deep learning tuning playbook https://github.com/google-research/tuning_playbook
 - GNN projects with PyTorch Geometric https://medium.com/stanford-cs224w
+- interaction networks https://blog.acolyer.org/2017/01/02/interaction-networks-for-learning-about-objects-relations-and-physics/
+- CS blog https://blog.acolyer.org/
 
 ### Libraries
 
