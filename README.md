@@ -52,3 +52,6 @@ The following is a list of ML,Deep Learning, and RL resources I have found usefu
 
 - Deep learning tuning playbook https://github.com/google-research/tuning_playbook
 - GNN projects with PyTorch Geometric https://medium.com/stanford-cs224w
+
+### Libraries
+-https://github.com/deepmind/graph_nets
