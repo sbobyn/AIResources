@@ -49,15 +49,24 @@ The following is a list of ML,Deep Learning, and RL resources I have found usefu
 - another geodl book https://www.cs.mcgill.ca/~wlh/grl_book/
 
 ### Blog posts
+
 - distill publication project https://distill.pub/about/
 - GNN researcher https://danielegrattarola.github.io/blog/
 - Physics,GNN researcher https://astroautomata.com/
 - andrej karpathy https://karpathy.ai/
-- 
 - Deep learning tuning playbook https://github.com/google-research/tuning_playbook
 - GNN projects with PyTorch Geometric https://medium.com/stanford-cs224w
 
 ### Libraries
--https://github.com/deepmind/graph_nets
--https://graphneural.network/
--https://pytorch-geometric.readthedocs.io/en/latest/
+
+- https://github.com/deepmind/graph_nets
+- https://graphneural.network/
+- https://pytorch-geometric.readthedocs.io/en/latest/
+- https://github.com/google/jax
+- https://github.com/MilesCranmer/PySR
+- https://www.svenkreiss.com/socialforce/intro.html
+- https://github.com/yuxiang-gao/PySocialForce
+- https://www.gymlibrary.dev/
+- https://github.com/openai
+- https://github.com/deepmind
+- https://ai-feynman.readthedocs.io/en/latest/
