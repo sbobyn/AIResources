@@ -35,6 +35,7 @@ The following is a list of AI resources I have found useful for reference and se
 
 ### Youtube stuff
 
+- ML for physics https://www.youtube.com/playlist?list=PLHyI3Fbmv0SfQfS1rknFsr_UaaWpJ1EKA
 - \*\*Andrej Karpathy's yt https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 - PyTorch Geometric Tutorials https://github.com/AntonioLonga/PytorchGeometricTutorial
 - Advanced PyTorch Geometric tutorials https://github.com/AntonioLonga/AdvancePyTorchGeometricTutorials
